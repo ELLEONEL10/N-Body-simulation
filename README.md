@@ -47,7 +47,7 @@ The Barnes-Hut algorithm approximates the effect of distant bodies using a quadt
 
 ## Acknowledgements
 
-This project was implemented based on detailed explanations and examples provided in the course materials. Special thanks to the authors of the referenced materials for their comprehensive guides.
+This project was implemented based on detailed explanations and examples provided in the course materials By: Fadi Abbara, Hayyan Azzam, Baraa Alkilany, Anas Zahran, and Omar Radwan. Special thanks to the Proof. Ali Vaisifard for their comprehensive guides.
 
 ## License
 
