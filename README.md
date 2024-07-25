@@ -45,3 +45,10 @@ The Barnes-Hut algorithm approximates the effect of distant bodies using a quadt
    ./nbody_serial
    ./nbody_parallel
 
+## Acknowledgements
+
+This project was implemented based on detailed explanations and examples provided in the course materials. Special thanks to the authors of the referenced materials for their comprehensive guides.
+
+## License
+
+This project is licensed under the MIT License.
