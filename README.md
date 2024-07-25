@@ -1,0 +1,1 @@
+to build, run "build.bat all" in the directory 
