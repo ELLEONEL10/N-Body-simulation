@@ -42,4 +42,6 @@ The Barnes-Hut algorithm approximates the effect of distant bodies using a quadt
 2. Navigate to the project directory.
 3. Run the following command to build both serial and parallel versions:
    ```sh
-   make all
+   ./nbody_serial
+   ./nbody_parallel
+
